@@ -1,0 +1,21 @@
+----------------------------------------
+|    Name       |   Year    |   Grade  | 
+----------------------------------------
+| Alice          | 1        | 8.7      |
+| Bob            | 2        | 9.2      |
+| David          | 4        | 8        |
+| Frank          | 6        | 8.5      |
+| Grace          | 1        | 9.7      |
+| Isabel         | 3        | 8.2      |
+| Katie          | 5        | 8.9      |
+| Mia            | 1        | 8.3      |
+| Noah           | 2        | 9        |
+| Parker         | 4        | 8.6      |
+| Riley          | 6        | 9.5      |
+| Taylor         | 2        | 8.1      |
+| Vincent        | 4        | 9.3      |
+| Xander         | 6        | 8.4      |
+| Yara           | 1        | 9.1      |
+----------------------------------------
+The Sum of Years that we have: 48
+The sum of Grades that we have: 131.5
